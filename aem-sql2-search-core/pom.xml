@@ -75,7 +75,7 @@
             <artifactId>org.apache.sling.models.impl</artifactId>
         </dependency>
         <dependency>
-            <groupId>net.akqa.cms.aem</groupId>
+            <groupId>net.ameesh.cms.aem</groupId>
             <artifactId>sql2-search-api</artifactId>
             <version>${project.version}</version>
         </dependency>
